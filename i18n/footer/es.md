@@ -1,0 +1,4 @@
+ - Para ver estas instrucciones de nuevo, ejecute: `{appname} print`
+ - Para ejecutar su programa en un entorno de pruebas, ejecute: `{appname} run program.py`
+ - Para verificar su programa, ejecute: `{appname} verify program.py`
+ - Para más información, ejecute: `{appname} help`

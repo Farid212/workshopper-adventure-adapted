@@ -1,0 +1,4 @@
+ - Um diese Anweisungen erneut auszugeben: `{appname} print`
+ - Um dein Programm in der Testumgebung auszuführen: `{appname} run program.py`
+ - Um dein Programm zu verifizieren:  `{appname} verify program.py`
+ - Für Hilfe: `{appname} help`

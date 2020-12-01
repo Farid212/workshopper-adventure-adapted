@@ -1,0 +1,4 @@
+ - За испис описа задатка унесите: `{appname} print`
+ - Да покренете решење: `{appname} run program.py`
+ - Да тестирате решење:  `{appname} verify program.py`
+ - За испис помоћних упутстава: `{appname} help`

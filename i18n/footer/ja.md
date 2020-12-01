@@ -1,0 +1,5 @@
+ - この説明をもう一度表示する: `{appname} print`
+ - 作成したアプリをテスト環境で実行する: `{appname} run program.py`
+ - 作成したアプリが正しいか検証する: `{appname} verify program.py`
+ - 出力結果が見づらい場合には ``--no-color`` をつけてみてください: `{appname} verify program.py --no-color`
+ - ヘルプを表示する: `{appname} help`
