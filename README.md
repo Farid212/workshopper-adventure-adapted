@@ -1,6 +1,15 @@
-# Workshopper-Adventure-adapted
+### Workshopper-Adventure-Adapted
+---
 
-<small>this is an adapted version for the real project under</small>
+<small>this Workshopper-Adventure-Adapted is, as his name says, an adapted version of the real project [Workshopper-Adventure](https://github.com/workshopper/workshopper-adventure) that I use to complete [Python Scripting](https://github.com/farid212/pythonscripting) app, which I mainly use to teach my learner the basic of [Python](https://www.python.org/)</small>
+
+---
+
+<br>
+<br>
+
+
+# Workshopper-Adventure
 
 **A flexible terminal workshop runner framework**
 
